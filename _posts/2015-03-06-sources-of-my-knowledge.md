@@ -10,8 +10,8 @@ category: life
 * Code (Charles Petzold)
 * The Annotated Turing Manual (Charles Petzold)
 * Computer Systems - A programmer’s perspective (Bryant)
-* JVM - Internals (Bill Venners)
-* Thinking Functionally in Haskell (Richard Bird)
+* Thinking Functionally with Haskell (Richard Bird)
+* Pearls of Functional Algorithm Design (Richard Bird)
 * Functional Data Structures (Chris Okasaki)
 * The elements of computing systems (Nisan & Schocken)
 * Design and Analysis of Algorithms (Levitin)
@@ -20,7 +20,9 @@ category: life
 * SICP (Abelson & Sussman)
 * Peace in every step (Thai)
 * Programming Windows (Charles Petzold)
+* JVM - Internals (Bill Venners)
 * C# - Internals
+* Probability Theory - The Logic of Science (E.T. Jayanes)
 
 ### People
 
@@ -39,12 +41,12 @@ category: life
 * Heinrich Apfelmus (http://apfelmus.nfshost.com/articles/operational-monad.html)
 * Peter Norvig (http://norvig.com/21-days.html)
 * Kalid (http://betterexplained.com/)
-* Martin Fowler (Refactoring)
 * Chris Taylor (http://chris-taylor.github.io/)
 * Brent Yoregy (http://www.seas.upenn.edu/~cis194/spring13)
 * Eric S Raymond (Cathedral and Bazaar)
 * Keith Devlin (http://profkeithdevlin.org/)
 * Bret Victor (http://worrydream.com/#!/InventingOnPrinciple)
+* Jeff Bezos (http://www.amazon.com/Values-Careers-Homepage/b?node=239365011)
 
 ### Websites
 * http://stevewedig.com/2014/02/03/software-developers-reading-list/
