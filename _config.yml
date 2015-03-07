@@ -1,0 +1,14 @@
+# Site settings
+title: Watering the plant ..
+description: Blog Chandra Koduru
+tagline: one post at a time.
+baseurl: ""
+
+author:    Chandra Koduru
+name:    Chandra Koduru
+url:     http://chandrakoduru.in
+email:   kscraja@gmail.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
