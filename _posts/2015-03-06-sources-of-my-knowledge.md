@@ -24,6 +24,7 @@ category: life
 * CLR via C# (Jeffrey Richter)
 * JVM - Internals (Bill Venners)
 * Probability Theory - The Logic of Science (E.T. Jayanes)
+* Design and Evolution of C++ (Bjarne Stroustrup)
 * ...
 
 ### People
@@ -40,7 +41,7 @@ category: life
 * Richard Hamming (https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
 * Alan Turing (The Turing Machine)
 * Martin Oderski (Scala)
-* Linus Torvald (Linux, Git)
+* Linus Torvalds (Linux, Git)
 * Austin G Walters ( http://austingwalters.com/knowledge/)
 * Daniel Eklund (http://merrigrove.blogspot.in/2011/12/another-introduction-to-algebraic-data.html)
 * Dan Piponi (http://blog.sigfpe.com/2014/05/types-and-two-approaches-to-problem.html)
