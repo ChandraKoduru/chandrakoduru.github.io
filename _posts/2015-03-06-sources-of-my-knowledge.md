@@ -54,6 +54,7 @@ category: life
 * Keith Devlin (http://profkeithdevlin.org/)
 * Bret Victor (http://worrydream.com/#!/InventingOnPrinciple)
 * Jeff Bezos (http://www.amazon.com/Values-Careers-Homepage/b?node=239365011)
+* John Hughes (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 * ...
 
 ### Websites
@@ -63,4 +64,5 @@ category: life
 * ...
 
 ### Papers
-* (coming soon)
+* Why Functional Programming Matters (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
+* Typeful Programming (http://www.lucacardelli.name/Papers/TypefulProg.pdf)
