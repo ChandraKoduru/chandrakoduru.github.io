@@ -25,6 +25,7 @@ category: life
 * JVM - Internals (Bill Venners)
 * Probability Theory - The Logic of Science (E.T. Jayanes)
 * Design and Evolution of C++ (Bjarne Stroustrup)
+* Programming in Haskell (Graham Hutton)
 * ...
 
 ### People
@@ -32,6 +33,7 @@ category: life
 * Bartosz Milewski (http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * Rich Hickey (Clojure, Datamic, Simple & Easy)
 * Simon Peter Jones (Haskell)
+* Erik Meijer (Channel 9, Lectures)
 * Charles Petzold (Code, Turing Manual)
 * Jeffrey Richter (Windows internals)
 * Alonzo Church (Lambda Calculus)
@@ -55,14 +57,21 @@ category: life
 * Bret Victor (http://worrydream.com/#!/InventingOnPrinciple)
 * Jeff Bezos (http://www.amazon.com/Values-Careers-Homepage/b?node=239365011)
 * John Hughes (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
+* Richard Feynman (http://www.feynmanlectures.caltech.edu/)
+* Gilbert Strang (http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+* Walter Lewin (http://videolectures.net/walter_h_g_lewin/)
 * ...
 
 ### Websites
 * http://stevewedig.com/2014/02/03/software-developers-reading-list/
 * http://pcottle.github.io/learnGitBranching/?demo
 * http://setosa.io/ev/principal-component-analysis/
+* http://programming-motherfucker.com/become.html
+* http://ocw.mit.edu/courses/physics/
+* http://ocw.mit.edu/courses/audio-video-courses/
 * ...
 
 ### Papers
 * Why Functional Programming Matters (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 * Typeful Programming (http://www.lucacardelli.name/Papers/TypefulProg.pdf)
+* ...
