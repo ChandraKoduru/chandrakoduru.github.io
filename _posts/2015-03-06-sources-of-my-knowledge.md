@@ -73,11 +73,6 @@ category: life
 * http://ocw.mit.edu/courses/audio-video-courses/
 * ...
 
-### Papers
-* Why Functional Programming Matters (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
-* Typeful Programming (http://www.lucacardelli.name/Papers/TypefulProg.pdf)
-* ...
-
 ### MOOCS
 * Coursera - Systematic Program Design - https://www.coursera.org/course/programdesign - Gregor Kiczales
 * MITX - Circuits and Electronics  - https://6002x.mitx.mit.edu/courseware
@@ -101,3 +96,8 @@ category: life
 * Coursera - Web Intelligence and Big Data - https://www.coursera.org/course/bigdata
 * Coursera - Algorithmic Thinking - https://www.coursera.org/course/algorithmicthink1
 * Coursera - Learning how to learn - https://www.coursera.org/learn/learning-how-to-learn
+
+### Papers
+* Why Functional Programming Matters (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
+* Typeful Programming (http://www.lucacardelli.name/Papers/TypefulProg.pdf)
+* ...
