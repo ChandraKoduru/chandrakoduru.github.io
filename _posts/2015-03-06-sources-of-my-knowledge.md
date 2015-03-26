@@ -60,6 +60,8 @@ category: life
 * Richard Feynman (http://www.feynmanlectures.caltech.edu/)
 * Gilbert Strang (http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 * Walter Lewin (http://videolectures.net/walter_h_g_lewin/)
+* Douglas Crockford (https://www.youtube.com/watch?v=v2ifWcnQs6M&list=PL62E185BB8577B63D)
+* Ayn Rand (Atlas Shrugged)
 * ...
 
 ### Websites
@@ -75,3 +77,27 @@ category: life
 * Why Functional Programming Matters (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 * Typeful Programming (http://www.lucacardelli.name/Papers/TypefulProg.pdf)
 * ...
+
+### MOOCS
+* Coursera - Systematic Program Design - https://www.coursera.org/course/programdesign - Gregor Kiczales
+* MITX - Circuits and Electronics  - https://6002x.mitx.mit.edu/courseware
+* UTAustin - Linear Algebra Foundations to Frontiers - https://courses.edx.org/courses/UTAustinX/UT.5.02x/1T2015/courseware
+* CornellX - Computing Technology Inside Smartphone - https://courses.edx.org/courses/CornellX/ENGRI1210x/1T2015/courseware
+* MITX - Computation Structures - https://courses.edx.org/courses/MITx/6.004.1x/1T2015/courseware/c4/c4s1/
+* MITX - Probability - The science of uncertainity - https://courses.edx.org/courses/MITx/6.041x_1/1T2015/courseware
+* MITX - Analytics Edge
+* PurdueX - Communicating Strategically - https://courses.edx.org/courses/PurdueX/pncom201501x/2015_T1/courseware
+* Udacity - The design of computer programs (Peter Norvig)
+* Coursera - The Hardware/Software Interface -  https://www.coursera.org/course/hwswinterface
+* Coursera - Functional Programming - Erik Meijer (DeltaX)
+* Coursera - Principles of reactive programming (Scala, Martin Oderski, EPFL)
+* Coursera - Algorithms 1 & 2 - Robert Sedgewick (Princeton)
+* Coursera - What managers can learn from philosophers (Luc Barbendere, Ecole Paris)
+* Coursera - Data Science - Specialization - John Hopkins University
+* Coursera - Public Speaking
+* Iverisity - Design Thinking
+* MIT - Physics - http://ocw.mit.edu/courses/physics/ (Walter Levin)
+* Haskell - Brent Yoregy - http://www.seas.upenn.edu/~cis194/spring13
+* Coursera - Web Intelligence and Big Data - https://www.coursera.org/course/bigdata
+* Coursera - Algorithmic Thinking - https://www.coursera.org/course/algorithmicthink1
+* Coursera - Learning how to learn - https://www.coursera.org/learn/learning-how-to-learn
