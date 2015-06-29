@@ -88,3 +88,25 @@ Then begin the upgrade process
 * wc => word count
 * less, head, tail
 * du -sh * | sort -n (for list directories and their sizes in human readable format)
+
+
+## bash utils/hacks
+* alias
+    - 'alias' just for listing existing alias
+    - setting up alias -> alias = 'cd /usr; ls; cd -'
+        use semicolon to seperate mutiliple commands
+    - 'unalias' to reverse the association
+
+
+## I/O redirection
+
+* ls -l /usr > abcd.txt (stdout to abcd.txt)
+* ls -l /usr >> abcd.txt (append stdout to abcd.txt)
+* ls -l /usr 2> error.txt (stderror to error.txt)
+* ls -l /usr &> out.txt (stdout and stderror to out.txt)
+* ls -l /bin/usr 2> /dev/null (disposing std error)
+* cat < lazy_dog.txt (changing stdinput for cat to contents of lazy_dog.txt)
+
+## Listing directory sizes
+
+* ncdu
