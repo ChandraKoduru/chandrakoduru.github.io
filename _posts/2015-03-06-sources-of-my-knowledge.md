@@ -101,4 +101,5 @@ category: life
 ### Papers
 * Why Functional Programming Matters (http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 * Typeful Programming (http://www.lucacardelli.name/Papers/TypefulProg.pdf)
+* On Understanding Data Abstraction, Revisited (http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 * ...
