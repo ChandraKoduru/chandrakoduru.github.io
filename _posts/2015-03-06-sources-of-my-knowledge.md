@@ -72,6 +72,8 @@ category: life
 * [http://programming-motherfucker.com/become.html](http://programming-motherfucker.com/become.html)
 * [http://ocw.mit.edu/courses/physics/](http://ocw.mit.edu/courses/physics/)
 * [http://ocw.mit.edu/courses/audio-video-courses/](http://ocw.mit.edu/courses/audio-video-courses/)
+* [https://github.com/JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * ...
 
 ### MOOCS
@@ -103,3 +105,6 @@ category: life
 * Typeful Programming (http://www.lucacardelli.name/Papers/TypefulProg.pdf)
 * On Understanding Data Abstraction, Revisited (http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 * ...
+
+### Talks
+* [Leslie Lamport](https://www.youtube.com/watch?v=6QsTfL-uXd8)
