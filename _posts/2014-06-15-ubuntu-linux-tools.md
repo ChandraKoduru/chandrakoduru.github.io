@@ -76,6 +76,8 @@ Then begin the upgrade process
 * nc -v -z hostname 80-1000 2>&1 /to scan ports (80 to 100) on hostname
 * nc -k -l 4000 //to listen for connections on port 400
 * nc hostname 4000 //to connect to hostname on port 
+* netstat -(all(a), tcp(t), udp(u), listen(l), process(p), userid(e)) //e.g nestat -atp (all tcp with process name)
+
 
 ## command line utils
 
