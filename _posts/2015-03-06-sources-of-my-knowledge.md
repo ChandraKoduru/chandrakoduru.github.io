@@ -108,3 +108,7 @@ category: life
 
 ### Talks
 * [Leslie Lamport](https://www.youtube.com/watch?v=6QsTfL-uXd8)
+* [Understanding GIL video](https://www.youtube.com/watch?v=ph374fJqFPE)
+
+### Slides
+* [Understanding GIL] (http://www.dabeaz.com/python/UnderstandingGIL.pdf)
